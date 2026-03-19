@@ -34,19 +34,31 @@
 
 ---
 
-## 💻 Tech Stack
-**Core:**  
-Python • AI/ML • Backend Systems • APIs  
 
-**Cloud & Infra:**  
-Azure • GCP • Cloud Security • Docker  
 
-**Creative Tech:**  
-Three.js • Blender  
+**Core**  
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+**Cloud & Infra**  
+<p>
+  <img src="https://skillicons.dev/icons?i=azure" />
+  <img src="https://skillicons.dev/icons?i=gcp" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+</p>
+
+**Creative Tech**  
+<p>
+  <img src="https://skillicons.dev/icons?i=threejs" />
+  <img src="https://skillicons.dev/icons?i=blender" />
+</p>
 
 ---
 
-## 🎧 Currently Listening
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/1294242999">
@@ -56,7 +68,7 @@ Three.js • Blender
 
 ---
 
-## 📊 GitHub Activity
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ByMarcy&theme=dracula&hide_border=true" height="150"/>
@@ -89,7 +101,7 @@ Three.js • Blender
 
 ---
 
-## 🟡 Pacman Contribution Graph
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByMarcy/ByMarcy/output/pacman-contribution-graph-dark.svg">
@@ -99,7 +111,7 @@ Three.js • Blender
 
 ---
 
-## 👁️ Visitors
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ByMarcy.ByMarcy" />
@@ -107,6 +119,6 @@ Three.js • Blender
 
 ---
 
-## 🐍 Contribution Snake
+
 
 <img src="https://raw.githubusercontent.com/ByMarcy/ByMarcy/output/snake.svg" alt="Snake animation" />
