@@ -15,10 +15,10 @@
 
 ---
 
-## 🔐 Current Focus
-- AI Engineering (LLMs, agents, CV models)  
+## 🔐 Current Focus 
 - Cloud Security (Azure, IAM, secure architectures)  
-- System Design for scalable SaaS  
+- System Design for scalable SaaS
+- AI Engineering (LLMs, agents, CV models) 
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-
+## 💻 Tech Stack
 
 **Core**  
 <p>
@@ -69,7 +69,6 @@
 ---
 
 
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ByMarcy&theme=dracula&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=ByMarcy&show_icons=true&theme=dracula&hide_border=true" height="150"/>
@@ -91,15 +90,16 @@
 ## 🌐 Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/shadi-rad">
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:itsnotbymarcy@gmail.com">
+  <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
 ---
+
 
 
 
