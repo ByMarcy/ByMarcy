@@ -2,57 +2,14 @@
 
 # ⚙️ Shadi Rad
 
-**AI Systems Engineer • Automation • Computer Vision • Cloud Security**
-
----
-
-## 🚀 What I Build
-- AI-powered applications & intelligent agents  
-- Automation workflows (n8n, APIs, integrations)  
-- Scalable backend & system architecture  
-
----
-
-## 🔐 Current Focus 
-- Cloud Security (Azure, IAM, secure architectures)  
-- System Design for scalable SaaS
-- AI Engineering (LLMs, agents, CV models) 
-
----
-
-## 🤝 Open to Collaborate
-- AI systems & agent-based apps  
-- Automation pipelines  
-- Cloud-native infrastructure  
-
----
-
-## 🎓 Education
-- MSc Software Engineering  
-
----
-
-## 💻 Tech Stack
-
-**Core**  
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=fastapi" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
-
-**Cloud & Infra**  
-<p>
-  <img src="https://skillicons.dev/icons?i=azure" />
-  <img src="https://skillicons.dev/icons?i=gcp" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-</p>
-
-**Creative Tech**  
-<p>
-  <img src="https://skillicons.dev/icons?i=threejs" />
-  <img src="https://skillicons.dev/icons?i=blender" />
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/shadi_rad">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:itsnotbymarcy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
@@ -78,27 +35,37 @@
 
 ---
 
-## 👾 Projects Direction
-- Cloud Security  
-- Autonomous agents & workflows  
-- AI SaaS systems  
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+ 
+<p>
+  <img src="https://skillicons.dev/icons?i=azure" />
+  <img src="https://skillicons.dev/icons?i=gcp" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+</p>
+
+
+<p>
+  <img src="https://skillicons.dev/icons?i=threejs" />
+  <img src="https://skillicons.dev/icons?i=blender" />
+</p>
 
 ---
 
-## 🌐 Connect
 
-<div align="center">
-  <a href="https://linkedin.com/in/shadi_rad">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:itsnotbymarcy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
 
 ---
 
+## 👾 **Cloud Security* •• Computer Vision **
+MSc Software Engineering  
 
+--- 
+
+---
 
 
 <picture>
