@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://gifdb.com/images/high/marceline-angry-computer-3ssc13ntqyeuekid.gif" />
-</div>
+
 
 # ⚙️ Shadi Rad
 
@@ -115,6 +113,12 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ByMarcy.ByMarcy" />
+</div>
+
+---
+
+<div align="center">
+  <img height="150" src="https://gifdb.com/images/high/marceline-angry-computer-3ssc13ntqyeuekid.gif" />
 </div>
 
 ---
