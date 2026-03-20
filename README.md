@@ -39,17 +39,17 @@
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=fastapi" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
+
 
  
-<p>
+
   <img src="https://skillicons.dev/icons?i=azure" />
   <img src="https://skillicons.dev/icons?i=gcp" />
   <img src="https://skillicons.dev/icons?i=docker" />
-</p>
 
 
-<p>
+
+
   <img src="https://skillicons.dev/icons?i=threejs" />
   <img src="https://skillicons.dev/icons?i=blender" />
 </p>
