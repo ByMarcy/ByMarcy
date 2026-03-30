@@ -1,33 +1,33 @@
 name: Generate Animations
-
 on:
   schedule:
-    - cron: "0 */12 * * *" # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      # 🐍 Snake animation
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ByMarcy
           outputs: |
             dist/snake.svg
+            dist/snake-dark.svg
 
-      # 🟡 Pacman graph
       - name: Generate pacman graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ByMarcy
+          outputDir: dist
 
-      # 📂 Push to /output folder
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
