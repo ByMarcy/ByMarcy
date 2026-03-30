@@ -1,6 +1,6 @@
 
 
-# Shadi Rad
+# 👾 Shadi Rad
 
 <div align="center">
   <a href="https://linkedin.com/in/shadi_rad">
@@ -60,7 +60,7 @@
 
 ---
 
-## 👾 **Cloud Security** •• Computer Vision**
+## 👾 *Cloud Security** •• Computer Vision**
 MSc Software Engineering  
 
 --- 
