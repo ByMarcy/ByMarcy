@@ -60,7 +60,7 @@
 
 ---
 
-## 👾 *Cloud Security** •• Computer Vision**
+## 👾 Cloud Security •• Computer Vision 
 MSc Software Engineering  
 
 --- 
