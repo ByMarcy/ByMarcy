@@ -1,19 +1,19 @@
 name: Generate Animations
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */24 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
@@ -26,10 +26,9 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ByMarcy
-          outputDir: dist
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
