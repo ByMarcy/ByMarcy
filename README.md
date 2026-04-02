@@ -41,12 +41,12 @@
   <img src="https://skillicons.dev/icons?i=blender" />
 </p>
 
----
+---   
 
 ## 👾 Cloud Security · Computer Vision
 **MSc Software Engineering** — building at the intersection of secure systems and intelligent vision.
 
----
+---  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ByMarcy/ByMarcy/output/pacman-contribution-graph-dark.svg">
